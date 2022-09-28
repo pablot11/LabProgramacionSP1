@@ -1,0 +1,85 @@
+C:\Users\PABLO\OneDrive\Desktop\pryTorresS1\bin\Debug\pryTorresS1.exe.config
+C:\Users\PABLO\OneDrive\Desktop\pryTorresS1\bin\Debug\pryTorresS1.exe
+C:\Users\PABLO\OneDrive\Desktop\pryTorresS1\bin\Debug\pryTorresS1.pdb
+C:\Users\PABLO\OneDrive\Desktop\pryTorresS1\obj\Debug\pryTorresS1.csproj.AssemblyReference.cache
+C:\Users\PABLO\OneDrive\Desktop\pryTorresS1\obj\Debug\pryTorresS1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PABLO\OneDrive\Desktop\pryTorresS1\obj\Debug\pryTorresS1.frmAgricultura.resources
+C:\Users\PABLO\OneDrive\Desktop\pryTorresS1\obj\Debug\pryTorresS1.Properties.Resources.resources
+C:\Users\PABLO\OneDrive\Desktop\pryTorresS1\obj\Debug\pryTorresS1.csproj.GenerateResource.cache
+C:\Users\PABLO\OneDrive\Desktop\pryTorresS1\obj\Debug\pryTorresS1.csproj.CoreCompileInputs.cache
+C:\Users\PABLO\OneDrive\Desktop\pryTorresS1\obj\Debug\pryTorresS1.exe
+C:\Users\PABLO\OneDrive\Desktop\pryTorresS1\obj\Debug\pryTorresS1.pdb
+C:\Users\PABLO\OneDrive\Desktop\pryTorresS1\obj\Debug\pryTorresS1.frmLocalidades.resources
+C:\Users\PABLO\OneDrive\Desktop\pryTorresS1\obj\Debug\pryTorresS1.frmProduccion.resources
+C:\Users\PABLO\OneDrive\Desktop\pryTorresS1\obj\Debug\pryTorresS1.frmCultivos.resources
+C:\Users\Alumno\Downloads\pryTorresS1\bin\Debug\pryTorresS1.exe.config
+C:\Users\Alumno\Downloads\pryTorresS1\bin\Debug\pryTorresS1.exe
+C:\Users\Alumno\Downloads\pryTorresS1\bin\Debug\pryTorresS1.pdb
+C:\Users\Alumno\Downloads\pryTorresS1\obj\Debug\pryTorresS1.csproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\pryTorresS1\obj\Debug\pryTorresS1.frmAgricultura.resources
+C:\Users\Alumno\Downloads\pryTorresS1\obj\Debug\pryTorresS1.frmLocalidades.resources
+C:\Users\Alumno\Downloads\pryTorresS1\obj\Debug\pryTorresS1.frmProduccion.resources
+C:\Users\Alumno\Downloads\pryTorresS1\obj\Debug\pryTorresS1.frmCultivos.resources
+C:\Users\Alumno\Downloads\pryTorresS1\obj\Debug\pryTorresS1.Properties.Resources.resources
+C:\Users\Alumno\Downloads\pryTorresS1\obj\Debug\pryTorresS1.csproj.GenerateResource.cache
+C:\Users\Alumno\Downloads\pryTorresS1\obj\Debug\pryTorresS1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\pryTorresS1\obj\Debug\pryTorresS1.exe
+C:\Users\Alumno\Downloads\pryTorresS1\obj\Debug\pryTorresS1.pdb
+C:\Users\PABLO\OneDrive\Desktop\iess\pryTorresS1 (1)\bin\Debug\pryTorresS1.exe.config
+C:\Users\PABLO\OneDrive\Desktop\iess\pryTorresS1 (1)\bin\Debug\pryTorresS1.exe
+C:\Users\PABLO\OneDrive\Desktop\iess\pryTorresS1 (1)\bin\Debug\pryTorresS1.pdb
+C:\Users\PABLO\OneDrive\Desktop\iess\pryTorresS1 (1)\obj\Debug\pryTorresS1.csproj.AssemblyReference.cache
+C:\Users\PABLO\OneDrive\Desktop\iess\pryTorresS1 (1)\obj\Debug\pryTorresS1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PABLO\OneDrive\Desktop\iess\pryTorresS1 (1)\obj\Debug\pryTorresS1.frmAgricultura.resources
+C:\Users\PABLO\OneDrive\Desktop\iess\pryTorresS1 (1)\obj\Debug\pryTorresS1.frmLocalidades.resources
+C:\Users\PABLO\OneDrive\Desktop\iess\pryTorresS1 (1)\obj\Debug\pryTorresS1.frmProduccion.resources
+C:\Users\PABLO\OneDrive\Desktop\iess\pryTorresS1 (1)\obj\Debug\pryTorresS1.frmCultivos.resources
+C:\Users\PABLO\OneDrive\Desktop\iess\pryTorresS1 (1)\obj\Debug\pryTorresS1.Properties.Resources.resources
+C:\Users\PABLO\OneDrive\Desktop\iess\pryTorresS1 (1)\obj\Debug\pryTorresS1.csproj.GenerateResource.cache
+C:\Users\PABLO\OneDrive\Desktop\iess\pryTorresS1 (1)\obj\Debug\pryTorresS1.csproj.CoreCompileInputs.cache
+C:\Users\PABLO\OneDrive\Desktop\iess\pryTorresS1 (1)\obj\Debug\pryTorresS1.exe
+C:\Users\PABLO\OneDrive\Desktop\iess\pryTorresS1 (1)\obj\Debug\pryTorresS1.pdb
+C:\Users\Alumno\Downloads\pryTorresSP1\bin\Debug\pryTorresS1.exe.config
+C:\Users\Alumno\Downloads\pryTorresSP1\bin\Debug\pryTorresS1.exe
+C:\Users\Alumno\Downloads\pryTorresSP1\bin\Debug\pryTorresS1.pdb
+C:\Users\Alumno\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.csproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.frmAgricultura.resources
+C:\Users\Alumno\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.frmLocalidades.resources
+C:\Users\Alumno\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.frmProduccion.resources
+C:\Users\Alumno\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.frmCultivos.resources
+C:\Users\Alumno\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.Properties.Resources.resources
+C:\Users\Alumno\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.csproj.GenerateResource.cache
+C:\Users\Alumno\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.exe
+C:\Users\Alumno\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.pdb
+C:\Users\PABLO\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.csproj.AssemblyReference.cache
+C:\Users\PABLO\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PABLO\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.frmAgricultura.resources
+C:\Users\PABLO\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.frmLocalidades.resources
+C:\Users\PABLO\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.frmProduccion.resources
+C:\Users\PABLO\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.frmCultivos.resources
+C:\Users\PABLO\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.Properties.Resources.resources
+C:\Users\PABLO\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.csproj.GenerateResource.cache
+C:\Users\PABLO\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.csproj.CoreCompileInputs.cache
+C:\Users\PABLO\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.exe
+C:\Users\PABLO\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.pdb
+C:\Users\PABLO\Downloads\pryTorresSP1\bin\Debug\pryTorresS1.exe.config
+C:\Users\PABLO\Downloads\pryTorresSP1\bin\Debug\pryTorresS1.exe
+C:\Users\PABLO\Downloads\pryTorresSP1\bin\Debug\pryTorresS1.pdb
+C:\Users\PABLO\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.frmProduccionVer.resources
+C:\Users\Alumno\Downloads\pryTorresSP1\obj\Debug\pryTorresS1.frmProduccionVer.resources
+C:\Users\PABLO\Downloads\pryTorresSP1-20220831T223324Z-001\pryTorresSP1\bin\Debug\pryTorresS1.exe.config
+C:\Users\PABLO\Downloads\pryTorresSP1-20220831T223324Z-001\pryTorresSP1\bin\Debug\pryTorresS1.exe
+C:\Users\PABLO\Downloads\pryTorresSP1-20220831T223324Z-001\pryTorresSP1\bin\Debug\pryTorresS1.pdb
+C:\Users\PABLO\Downloads\pryTorresSP1-20220831T223324Z-001\pryTorresSP1\obj\Debug\pryTorresS1.csproj.AssemblyReference.cache
+C:\Users\PABLO\Downloads\pryTorresSP1-20220831T223324Z-001\pryTorresSP1\obj\Debug\pryTorresS1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PABLO\Downloads\pryTorresSP1-20220831T223324Z-001\pryTorresSP1\obj\Debug\pryTorresS1.frmAgricultura.resources
+C:\Users\PABLO\Downloads\pryTorresSP1-20220831T223324Z-001\pryTorresSP1\obj\Debug\pryTorresS1.frmLocalidades.resources
+C:\Users\PABLO\Downloads\pryTorresSP1-20220831T223324Z-001\pryTorresSP1\obj\Debug\pryTorresS1.frmProduccion.resources
+C:\Users\PABLO\Downloads\pryTorresSP1-20220831T223324Z-001\pryTorresSP1\obj\Debug\pryTorresS1.frmCultivos.resources
+C:\Users\PABLO\Downloads\pryTorresSP1-20220831T223324Z-001\pryTorresSP1\obj\Debug\pryTorresS1.frmProduccionVer.resources
+C:\Users\PABLO\Downloads\pryTorresSP1-20220831T223324Z-001\pryTorresSP1\obj\Debug\pryTorresS1.Properties.Resources.resources
+C:\Users\PABLO\Downloads\pryTorresSP1-20220831T223324Z-001\pryTorresSP1\obj\Debug\pryTorresS1.csproj.GenerateResource.cache
+C:\Users\PABLO\Downloads\pryTorresSP1-20220831T223324Z-001\pryTorresSP1\obj\Debug\pryTorresS1.csproj.CoreCompileInputs.cache
+C:\Users\PABLO\Downloads\pryTorresSP1-20220831T223324Z-001\pryTorresSP1\obj\Debug\pryTorresS1.exe
+C:\Users\PABLO\Downloads\pryTorresSP1-20220831T223324Z-001\pryTorresSP1\obj\Debug\pryTorresS1.pdb
